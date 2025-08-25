@@ -308,13 +308,13 @@ export default function AlNasHospital() {
             <div className="lg:col-span-3">
               {/* Welcome Section */}
               <div className="text-center mb-6">
-                <div className="w-20 h-20 mx-auto bg-gray-100 rounded-full flex items-center justify-center mb-6">
+                <div className="w-28 h-28 mx-auto bg-gray-100 rounded-full flex items-center justify-center mb-6">
                   <img
-                    src="/adesDoctor.png"
+                    src="/alnasdoc.png"
                     alt="Doctor"
-                    className="w-16 h-16 rounded-full"
+                    className="w-24 h-24 rounded-full"
                   />
-                  <div className="absolute ml-12 mt-12">
+                  <div className="absolute ml-16 mt-16">
                     <div className="w-6 h-6 bg-blue-500 rounded-full flex items-center justify-center"></div>
                   </div>
                 </div>
