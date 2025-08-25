@@ -310,7 +310,7 @@ export default function AlNasHospital() {
               <div className="text-center mb-6">
                 <div className="w-28 h-28 mx-auto bg-gray-100 rounded-full flex items-center justify-center mb-6">
                   <img
-                    src="/alnasdoc.png"
+                    src="/Alnasdoc.png"
                     alt="Doctor"
                     className="w-24 h-24 rounded-full"
                   />
