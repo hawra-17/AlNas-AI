@@ -319,14 +319,11 @@ export default function AlNasHospital() {
                   </div>
                 </div>
                 <h2 className="text-xl sm:text-2xl font-bold text-gray-900 mb-4">
-                  Welcome to Al Nas Hospital Information Center
+                  Welcome to Al Nas Hospital AI portal
                 </h2>
                 <p className="text-gray-600 max-w-xl mx-auto leading-relaxed text-sm sm:text-base px-4 sm:px-0">
-                  I'm your AI information assistant, here to provide details
-                  about Al Nas Hospital services, facilities, departments,
-                  staff, and general hospital information. Ask me about our
-                  medical services, appointment procedures, or hospital
-                  facilities.
+                  I'm Dr. Anas, the hospital's AI assistant. I'm here to answer
+                  your questions. Please use the chat window below to ask me.
                 </p>
               </div>
 
