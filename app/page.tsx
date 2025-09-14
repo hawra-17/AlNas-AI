@@ -116,11 +116,11 @@ export default function AlNasHospital() {
                   </div>
 
                   <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                    Dr. Anas, your AI Assistant
+                    Dr. Anas
                   </h3>
-                  <p className="text-gray-600 mb-4">
+                  {/* <p className="text-gray-600 mb-4">
                     Hospital Services & Information
-                  </p>
+                  </p> */}
                   <Badge className="bg-green-100 text-green-800 hover:bg-green-100">
                     Available 24/7
                   </Badge>
