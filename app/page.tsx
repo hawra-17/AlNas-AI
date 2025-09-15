@@ -12,7 +12,7 @@ export default function AlNasHospital() {
 
   const popupMessages = [
     "Hi how are you?",
-    "I'm Dr. Anas ",
+    "I'm the AI of Alnas Hospital",
     "Ask me anything about the hospital and I will tell you",
   ];
 
